@@ -1,0 +1,74 @@
+{
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "material-icon-theme",
+    "python.formatting.provider": "none",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "prettier.embeddedLanguageFormatting": "off",
+    "prettier.tabWidth": 4,
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontLigatures": true,
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "*",
+            "color": "#BEFC9F",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "tm",
+            "color": "#FAE6A5",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "td",
+            "color": "#89CFD9",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "n",
+            "color": "#C5A3F0",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "$",
+            "color": "#D99389",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        }
+    ],
+    "terminal.integrated.inheritEnv": false,
+    // "editor.tokenColorCustomizations": {}
+}
